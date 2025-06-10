@@ -14,6 +14,9 @@ Python (Pandas, Matplotlib, Seaborn) – for data analysis and visualization
 
 
 📌 Key Findings
+
 1.On average, males have slightly higher claim amounts than females.
+
 2.The BMI of male customers is higher, which may contribute to increased health risks and higher claims.
+
 3.This suggests a correlation between higher BMI and higher claim values, explaining the gender-based difference.
